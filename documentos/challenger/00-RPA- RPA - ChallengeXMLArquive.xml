@@ -1,0 +1,15 @@
+<Config>
+		 <Log>
+			<LogFilePath>Automation Anywhere\My Docs\MJV\challenger\Logs </LogFilePath>
+			<LogFileName>Log_[Day]_[Mounth]_[Year]_[Hour]_[Minute]_[Second].txt</LogFileName>
+		 </Log>
+		<PlanilhaExcel>
+			 <SpreadSheet>
+				   <PlanilhaPath>Automation Anywhere\My Docs\Mjv\challenger</PlanilhaPath>
+				   <PlanilhaName>challenge.xlsx</PlanilhaName>  
+				   <PlanilhaNameSheet>Sheet1</PlanilhaNameSheet>
+			  </SpreadSheet>
+		  </PlanilhaExcel>
+		      <UrlSite>http://rpachallenge.com/</UrlSite>
+		  
+	</Config>

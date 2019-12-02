@@ -1,0 +1,20 @@
+<Config>
+		 <Log>
+			<LogFilePath>Automation Anywhere\My Docs\MJV\CopiaPlanilha\Logs </LogFilePath>
+			<LogFileName>Log_[Day]_[Mounth]_[Year]_[Hour]_[Minute]_[Second].txt</LogFileName>
+		 </Log>
+		
+		     
+			 <SpreadSheet>
+			       <PlanilhaPath>Automation Anywhere\My Docs\Mjv\CopiaPlanilha</PlanilhaPath>
+			       <PlanilhaName>CopiaPlanilha.xlsx</PlanilhaName>  
+				   <PlanilhaNameSheet>NovaPlanilha</PlanilhaNameSheet>
+			  </SpreadSheet>
+
+		      <UrlSite>https://acme-test.uipath.com/account/login</UrlSite>
+			  
+			  <AcmeLogin>
+			   <AcmeUser>patriciaananias1983@hotmail.com</AcmeUser>
+			   <AcmePass>Luna1984</AcmePass>
+			   </AcmeLogin>
+	</Config>

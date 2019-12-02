@@ -1,0 +1,23 @@
+<Config>
+  <Log>
+    <LogFilePath>Automation Anywhere\My Docs\MJV\PrimeiroRobo\Logs </LogFilePath>
+    <LogFileName>Log_[Day]_[Mounth]_[Year]_[Hour]_[Minute]_[Second].txt</LogFileName>
+  </Log>
+ 
+  <Email>
+    <From>treinamentorpamjv@gmail.com</From>
+    <To>;patricia.silva@mjv.com.br</To>
+    <Cc>;natasha.silva@mjv.com.br</Cc> <!-- Cópia -->
+    <Bcc>;</Bcc> <!-- Cópia Oculta-->
+    <Subject>;Envio de teste </Subject>
+    <Message>;Mensagem de Teste no corpo do email.</Message>
+  </Email>
+ 
+  <!-- PARAMETROS Que Apenas A Tarefa 0003A Utiliza -->
+ 
+  <UrlSite>http://www.google.com.br/gmail</UrlSite>
+  <LoginGmail>
+    <GmailUser>treinamentorpamjv@gmail.com</GmailUser>
+    <GmailPass>rpa123456</GmailPass>
+  </LoginGmail>
+</Config>

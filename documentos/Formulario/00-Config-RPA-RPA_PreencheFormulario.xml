@@ -1,0 +1,15 @@
+	<Config>
+		 <Log>
+			<LogFilePath>Automation Anywhere\My Docs\MJV\formulario\Logs </LogFilePath>
+			<LogFileName>Log_[Day]_[Mounth]_[Year]_[Hour]_[Minute]_[Second].txt</LogFileName>
+		 </Log>
+		<PlanilhaExcel>
+			 <SpreadSheet>
+				   <PlanilhaPath>Automation Anywhere\My Docs\Mjv\Formulario</PlanilhaPath>
+				   <PlanilhaName>formulario.xlsx</PlanilhaName>  
+				   <PlanilhaNameSheet>pessoas</PlanilhaNameSheet>
+			  </SpreadSheet>
+		  </PlanilhaExcel>
+		      <UrlSite>https://forms.gle/aiHmHdeaFR8UjYZu8</UrlSite>
+		  
+	</Config>

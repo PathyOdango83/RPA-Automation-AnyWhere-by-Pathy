@@ -1,0 +1,17 @@
+<config>
+
+		 <Log>
+			<LogFilePath>Automation Anywhere\My Docs\MJV\PlanilhaHorasExtras\Logs </LogFilePath>
+			<LogFileName>Log_[Day]_[Mounth]_[Year]_[Hour]_[Minute]_[Second].txt</LogFileName>
+		 </Log>
+		<PlanilhaExcel>
+			 <SpreadSheet>
+				   <PlanilhaPath>Automation Anywhere\My Docs\Mjv\HorasExtras</PlanilhaPath>
+				   <PlanilhaName>PlanilhaHorasExtras.xlsx</PlanilhaName>  
+				   <PlanilhaNameSheet>HorasExtras</PlanilhaNameSheet>
+			  </SpreadSheet>
+		  </PlanilhaExcel>
+		  
+
+
+</config>
