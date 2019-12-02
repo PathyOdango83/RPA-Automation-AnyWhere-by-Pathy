@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="000-RPA-RPA-Challenge-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/26/2019 15:47:42</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="002-RPA-RPA-ChallengerEncheForm.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/26/2019 15:47:42</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="001-RPA-RPA-ChalllengeXMLeitor.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/26/2019 15:47:33</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

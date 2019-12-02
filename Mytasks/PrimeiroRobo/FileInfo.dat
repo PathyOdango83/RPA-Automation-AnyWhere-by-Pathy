@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="0000-TK-RPA-PrimeiroRobo-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 17:11:14</Property>
+      <Property Name="RunDuration">00:00:59</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0001A-TK-RPA-PrimeiroRobo-LeituraXMLeCriaLog.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 17:10:14</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0002A-TK-RPA -EnviaEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 16:57:38</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0003A-TK-RPA-PrimeiroRobo-NavegadorEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 17:11:14</Property>
+      <Property Name="RunDuration">00:00:59</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

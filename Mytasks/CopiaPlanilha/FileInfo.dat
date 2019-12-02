@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="000-RPA-RPA-CopiaTabela-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/02/2019 14:51:51</Property>
+      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="003-RPA-RPA-CopiaTabela-ExecutaClonaTabela.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/02/2019 14:51:51</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="001-RPA-RPA-CopiaTabela-LeitorXML.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/02/2019 14:51:28</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="002-RPA-RPA-CopiaTabela-ClonaTabela.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/27/2019 16:49:22</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1233.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/27/2019 18:11:35</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="123.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/28/2019 10:05:16</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

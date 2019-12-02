@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="0000-TK-RPA-PrimeiroRobo-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/14/2019 21:53:55</Property>
+      <Property Name="RunDuration">00:01:11</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0001A-TK-RPA-PrimeiroRobo-LeituraXMLeCriaLog.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/14/2019 21:52:44</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0002A-TK-RPA -EnviaEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/14/2019 20:52:03</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0001A-TK-RPA-PrimeiroRobo-NavegadorEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/12/2019 14:38:44</Property>
+      <Property Name="RunDuration">00:00:58</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="000- TK-Challenge-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/12/2019 15:15:03</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0000-TK-RPA-PreenchendoFormulario-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/12/2019 15:49:15</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0003A-TK-RPA-PrimeiroRobo-NavegadorEmail.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/14/2019 21:53:55</Property>
+      <Property Name="RunDuration">00:01:11</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

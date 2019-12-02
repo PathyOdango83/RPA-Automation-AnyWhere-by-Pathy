@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="0001A-TK-RPA-PreenchendoFichaPegadados.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 09:43:12</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0002A-TK-RPA-PreenchendoFichaMostrandoDados.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 09:43:25</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="0000-TK-RPA-PreenchendoFormularios-Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 09:43:25</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
